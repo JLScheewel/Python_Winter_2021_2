@@ -10,3 +10,5 @@ with open('data/out_d.dat', 'rb') as f:
     out_d = _pickle.load(f)
     print(out_d)
     print(type(out_d))
+
+
